@@ -11,6 +11,23 @@ open-access work at
 This rendition preserves the book's prose, equations, figures, worked
 examples, problems, and chapter structure in an accessible web-native format.
 
+## Fidelity to the original text
+
+This edition is the original book, not a revised textbook. We have made no
+attempt to update, correct, or modernize the physics content. The goal here is
+faithful conversion into MyST Markdown and web-native publication—not editorial
+revision.
+
+That means known inaccuracies and outdated statements from the 2019 Springer
+edition remain exactly as published. For example, Chapter 1 still defines the
+kilogram in terms of the historical platinum–iridium prototype cylinder, even
+though the SI definition of mass has since changed. We are fully aware that
+passage is now incorrect; we have deliberately left it unchanged.
+
+If you use this book for teaching or study, treat it as a historical snapshot
+of the published text. Do not assume the scientific definitions, constants, or
+explanations have been brought up to date.
+
 ## Read and edit the MyST edition
 
 The main entry points are:
