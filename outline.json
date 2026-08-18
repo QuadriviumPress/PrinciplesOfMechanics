@@ -1,0 +1,280 @@
+{
+  "book": {
+    "title": "Principles of Mechanics",
+    "subtitle": "Fundamental University Physics",
+    "authors": [
+      "Salma Alrasheed"
+    ],
+    "date": 2019,
+    "doi": "10.1007/978-3-030-15195-9",
+    "license": "CC-BY-4.0",
+    "source_url": "https://link.springer.com/book/10.1007/978-3-030-15195-9"
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Units and Vectors",
+      "slug": "ch-01-units-and-vectors",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_1_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_008_units-and-vectors.tex",
+          "work/tex/slice_009_solution-1-2.tex",
+          "work/tex/slice_010_solution-1-9-a.tex",
+          "work/tex/slice_011_solution-1-10.tex",
+          "work/tex/slice_012_scalar-triple-product.tex",
+          "work/tex/slice_013_vector-triple-product.tex",
+          "work/tex/slice_014_solution-1-11.tex",
+          "work/tex/slice_015_problems.tex"
+        ],
+        "math": "work/epub/math_ch01.json",
+        "figures": "work/epub/figures_ch01.json"
+      },
+      "source_counts": {
+        "figures": 29,
+        "figure_images_in_xhtml": 30,
+        "display_eq": 124,
+        "inline_eq": 378,
+        "examples": 16,
+        "tables": 2
+      },
+      "notes": [
+        "tex split across 8 slices (solution/prob slices belong to this chapter)"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Kinematics",
+      "slug": "ch-02-kinematics",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_2_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_016_kinematics.tex",
+          "work/tex/slice_017_solution-2-3-a.tex",
+          "work/tex/slice_018_solution-2-5.tex",
+          "work/tex/slice_019_problems.tex",
+          "work/tex/slice_020_problems.tex"
+        ],
+        "math": "work/epub/math_ch02.json",
+        "figures": "work/epub/figures_ch02.json"
+      },
+      "source_counts": {
+        "figures": 36,
+        "figure_images_in_xhtml": 37,
+        "display_eq": 211,
+        "inline_eq": 352,
+        "examples": 20,
+        "tables": 0
+      },
+      "notes": [
+        "two 'Problems' slices in tex (019, 020) - EPUB has one Problems section"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Newton\u2019s Laws",
+      "slug": "ch-03-newtons-laws",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_3_Chapter.xhtml",
+        "tex_slices": [],
+        "math": "work/epub/math_ch03.json",
+        "figures": "work/epub/figures_ch03.json"
+      },
+      "source_counts": {
+        "figures": 30,
+        "figure_images_in_xhtml": 31,
+        "display_eq": 108,
+        "inline_eq": 167,
+        "examples": 14,
+        "tables": 1
+      },
+      "notes": [
+        "NO tex slice for chapter body - math entirely from EPUB alt text"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Work and Energy",
+      "slug": "ch-04-work-and-energy",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_4_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_021_work-and-energy.tex",
+          "work/tex/slice_022_solution-4-7.tex",
+          "work/tex/slice_023_solution-4-8.tex",
+          "work/tex/slice_024_problems.tex"
+        ],
+        "math": "work/epub/math_ch04.json",
+        "figures": "work/epub/figures_ch04.json"
+      },
+      "source_counts": {
+        "figures": 37,
+        "figure_images_in_xhtml": 38,
+        "display_eq": 175,
+        "inline_eq": 279,
+        "examples": 23,
+        "tables": 0
+      },
+      "notes": []
+    },
+    {
+      "number": 5,
+      "title": "Impulse, Momentum, and Collisions",
+      "slug": "ch-05-impulse-momentum-and-collisions",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_5_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_025_impulse-momentum-and-collisions.tex",
+          "work/tex/slice_026_solution-5-3.tex",
+          "work/tex/slice_027_solution-5-9.tex",
+          "work/tex/slice_028_solution-5-13.tex",
+          "work/tex/slice_029_problems.tex"
+        ],
+        "math": "work/epub/math_ch05.json",
+        "figures": "work/epub/figures_ch05.json"
+      },
+      "source_counts": {
+        "figures": 22,
+        "figure_images_in_xhtml": 23,
+        "display_eq": 141,
+        "inline_eq": 212,
+        "examples": 18,
+        "tables": 0
+      },
+      "notes": []
+    },
+    {
+      "number": 6,
+      "title": "System of Particles",
+      "slug": "ch-06-system-of-particles",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_6_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_030_solution-6-1.tex",
+          "work/tex/slice_031_solution-6-10.tex",
+          "work/tex/slice_032_solution-6-12.tex",
+          "work/tex/slice_033_problems.tex"
+        ],
+        "math": "work/epub/math_ch06.json",
+        "figures": "work/epub/figures_ch06.json"
+      },
+      "source_counts": {
+        "figures": 24,
+        "figure_images_in_xhtml": 25,
+        "display_eq": 173,
+        "inline_eq": 150,
+        "examples": 15,
+        "tables": 0
+      },
+      "notes": [
+        "NO chapter-body tex slice; only solution 6.1/6.10/6.12 + problems slices"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Rotation of Rigid Bodies",
+      "slug": "ch-07-rotation-of-rigid-bodies",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_7_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_034_rotation-of-rigid-bodies.tex",
+          "work/tex/slice_035_solution-7-1.tex",
+          "work/tex/slice_036_solution-7-8-a.tex",
+          "work/tex/slice_037_solution-7-22.tex",
+          "work/tex/slice_038_problems.tex"
+        ],
+        "math": "work/epub/math_ch07.json",
+        "figures": "work/epub/figures_ch07.json"
+      },
+      "source_counts": {
+        "figures": 33,
+        "figure_images_in_xhtml": 34,
+        "display_eq": 215,
+        "inline_eq": 276,
+        "examples": 26,
+        "tables": 2
+      },
+      "notes": []
+    },
+    {
+      "number": 8,
+      "title": "Rolling and Static Equilibrium",
+      "slug": "ch-08-rolling-and-static-equilibrium",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_8_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_039_rolling-and-static-equilibrium.tex",
+          "work/tex/slice_040_solution-8-5.tex",
+          "work/tex/slice_041_problems.tex"
+        ],
+        "math": "work/epub/math_ch08.json",
+        "figures": "work/epub/figures_ch08.json"
+      },
+      "source_counts": {
+        "figures": 23,
+        "figure_images_in_xhtml": 24,
+        "display_eq": 113,
+        "inline_eq": 78,
+        "examples": 12,
+        "tables": 0
+      },
+      "notes": []
+    },
+    {
+      "number": 9,
+      "title": "Central Force Motion",
+      "slug": "ch-09-central-force-motion",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_9_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_042_central-force-motion.tex",
+          "work/tex/slice_043_solution-9-8.tex",
+          "work/tex/slice_044_solution-9-11.tex",
+          "work/tex/slice_045_solution-9-15.tex",
+          "work/tex/slice_046_problems.tex"
+        ],
+        "math": "work/epub/math_ch09.json",
+        "figures": "work/epub/figures_ch09.json"
+      },
+      "source_counts": {
+        "figures": 24,
+        "figure_images_in_xhtml": 25,
+        "display_eq": 247,
+        "inline_eq": 298,
+        "examples": 22,
+        "tables": 2
+      },
+      "notes": []
+    },
+    {
+      "number": 10,
+      "title": "Oscillatory Motion",
+      "slug": "ch-10-oscillatory-motion",
+      "sources": {
+        "xhtml": "work/epub/extract/OEBPS/html/459974_1_En_10_Chapter.xhtml",
+        "tex_slices": [
+          "work/tex/slice_047_solution-10-13.tex",
+          "work/tex/slice_048_solution-10-14.tex",
+          "work/tex/slice_049_problems.tex"
+        ],
+        "math": "work/epub/math_ch10.json",
+        "figures": "work/epub/figures_ch10.json"
+      },
+      "source_counts": {
+        "figures": 28,
+        "figure_images_in_xhtml": 29,
+        "display_eq": 208,
+        "inline_eq": 203,
+        "examples": 20,
+        "tables": 0
+      },
+      "notes": [
+        "NO chapter-body tex slice; only solution 10.13/10.14 + problems slices"
+      ]
+    }
+  ],
+  "references": {
+    "source": "backmatter XHTML",
+    "count": 0
+  }
+}

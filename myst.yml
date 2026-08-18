@@ -1,0 +1,37 @@
+version: 1
+project:
+  title: Principles of Mechanics
+  subtitle: Fundamental University Physics
+  short_title: Principles of Mechanics
+  authors:
+    - name: Salma Alrasheed
+      affiliations:
+        - institution: King Abdullah University of Science and Technology
+          city: Thuwal
+          country: Saudi Arabia
+  date: 2019-01-01
+  doi: 10.1007/978-3-030-15195-9
+  license: CC-BY-4.0
+  open_access: true
+  bibliography: references.bib
+  github: veillette/PrinciplesOfMechanics
+  toc:
+    - file: index.md
+    - file: chapters/ch-01-units-and-vectors.md
+    - file: chapters/ch-02-kinematics.md
+    - file: chapters/ch-03-newtons-laws.md
+    - file: chapters/ch-04-work-and-energy.md
+    - file: chapters/ch-05-impulse-momentum-and-collisions.md
+    - file: chapters/ch-06-system-of-particles.md
+    - file: chapters/ch-07-rotation-of-rigid-bodies.md
+    - file: chapters/ch-08-rolling-and-static-equilibrium.md
+    - file: chapters/ch-09-central-force-motion.md
+    - file: chapters/ch-10-oscillatory-motion.md
+    - file: references.md
+site:
+  template: book-theme
+  title: Principles of Mechanics
+  actions:
+    - title: Springer Open Access Book
+      url: https://link.springer.com/book/10.1007/978-3-030-15195-9
+  nav: []
