@@ -20,7 +20,7 @@ into a website (and optionally PDF).
 
 The running example throughout is *Principles of Mechanics* (Salma Alrasheed,
 Springer 2019, CC-BY-4.0, DOI 10.1007/978-3-030-15195-9) in
-`/home/veillette/PrinciplesOfMechanics`, but every step generalizes to any
+`/home/QuadriviumPress/PrinciplesOfMechanics`, but every step generalizes to any
 book with the same three source types.
 
 ## Environment

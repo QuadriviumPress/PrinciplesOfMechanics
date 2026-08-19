@@ -14,7 +14,7 @@ project:
   license: CC-BY-4.0
   open_access: true
   bibliography: references.bib
-  github: veillette/PrinciplesOfMechanics
+  github: QuadriviumPress/PrinciplesOfMechanics
   toc:
     - file: index.md
     - file: chapters/ch-01-units-and-vectors.md
