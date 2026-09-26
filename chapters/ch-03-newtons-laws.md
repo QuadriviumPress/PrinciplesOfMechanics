@@ -12,7 +12,7 @@ In this chapter, dynamics which is a branch of mechanics will be discussed. Dyna
 
 ### 3.1.1 The Concept of Force
 
-The interaction between one object and another or between the object and its environment defines a quantity called force. A force is a pull or a push in a certain direction that may cause the object to move or deform. However, motion does not always occur if the force is not large enough to overcome other forces such as friction or gravity But whether or not an object moves due to a force, there is always some deformation. In this book, it is assumed that objects remain undeformed under the influence of any forces. Experimentally, a force is found to be a vector quantity The net external force acting on an object (the vector sum of all forces acting on the object) causes the object to accelerate where the direction of the acceleration is in the direction of that force.
+The interaction between one object and another or between the object and its environment defines a quantity called force. A force is a pull or a push in a certain direction that may cause the object to move or deform. However, motion does not always occur if the force is not large enough to overcome other forces such as friction or gravity. But whether or not an object moves due to a force, there is always some deformation. In this book, it is assumed that objects remain undeformed under the influence of any forces. Experimentally, a force is found to be a vector quantity. The net external force acting on an object (the vector sum of all forces acting on the object) causes the object to accelerate where the direction of the acceleration is in the direction of that force.
 
 Hence, acceleration is a measure of force. If the net force equals zero, the acceleration of the object is zero, and the velocity of the object remains unchanged (constant). Forces in nature are one of two:
 
@@ -536,7 +536,7 @@ It is necessary to follow some steps when solving problems using Newton’s seco
 3. A coordinate system should be drawn in a free-body diagram with the body at its origin. Newton’s second law is then applied along each axis using the components of each force. The coordinate system must be oriented in such a way that simplifies the analysis, i.e., some forces should be directed along the axes;
 4. Solve obtained equations for the unknowns.
 
-Note that from here until Chap. [](#ch-5), any object is assumed to behave as a particle, i.e., all of its parts move in exactly the same way When applying Newton’s second law, a particle is represented by a dot on the free-body diagram. Furthermore, the mass or friction of any rope or pulley is neglected.
+Note that from here until Chap. [](#ch-5), any object is assumed to behave as a particle, i.e., all of its parts move in exactly the same way. When applying Newton’s second law, a particle is represented by a dot on the free-body diagram. Furthermore, the mass or friction of any rope or pulley is neglected.
 
 ````{prf:example}
 :label: example-3-7

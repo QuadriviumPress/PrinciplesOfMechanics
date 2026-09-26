@@ -89,7 +89,7 @@ A discrete system of particles consisting of *n* particles
 Consider a discrete system of particles consisting of *n* particles (see Fig. [](#fig-6-2)). The position vector of the center of mass at a particular instant is given by
 
 ```{math}
-\mathbf {r}_{cm}=\frac{m_{1}\mathbf {r}_{1}+m_{2}\mathbf {r}_{2}+m_{3}\mathbf {r}_{3}.+\cdots \cdot \cdot \cdot \cdot \cdots \cdot \cdot m_{n}\mathbf {r}_{n}}{m_{1}+m_{2}+m_{3}+\cdots +m_{n}}=\frac{\varSigma _{i=1}^{n} m_{i}\mathbf {r}_{i}}{M}
+\mathbf {r}_{cm}=\frac{m_{1}\mathbf {r}_{1}+m_{2}\mathbf {r}_{2}+m_{3}\mathbf {r}_{3}+\cdots +m_{n}\mathbf {r}_{n}}{m_{1}+m_{2}+m_{3}+\cdots +m_{n}}=\frac{\varSigma _{i=1}^{n} m_{i}\mathbf {r}_{i}}{M}
 ```
 
 where $\mathbf {r}_{i}$ is the position vector of the ith particle and $M=\displaystyle \sum _{i=1}^{n}m_{i}$ is the total mass of the system. In component form,$\mathrm {r}_{i}$ can be written as
@@ -648,7 +648,7 @@ where $\mathbf {F}_{i}$ is the net force acting on the ith particle. If both the
 \begin{aligned} \displaystyle \mathbf {F}_{i}=\mathbf {F}_{i(ext)}+\sum _{j}\mathbf {f}_{ij} \end{aligned}
 ```
 
-Where $\mathbf {F}_{i(ext)}$ is the resultant external force acting on the ith particle.$\mathbf {f}_{ij}$ is the internal force exerted on the ith particle by the jth particle. Note that it is as- sumed that no force is exerted on the particle by itself, i.e.,$\mathbf {f}_{ii}=0 $. Substituting Eq. [](#eq-6-6) into Eq. [](#eq-6-5) gives:
+Where $\mathbf {F}_{i(ext)}$ is the resultant external force acting on the ith particle.$\mathbf {f}_{ij}$ is the internal force exerted on the ith particle by the jth particle. Note that it is assumed that no force is exerted on the particle by itself, i.e.,$\mathbf {f}_{ii}=0 $. Substituting Eq. [](#eq-6-6) into Eq. [](#eq-6-5) gives:
 
 ```{math}
 :label: eq-6-7

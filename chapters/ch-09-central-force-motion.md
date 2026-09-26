@@ -1212,7 +1212,7 @@ Consider a particle of mass *m* moving under the influence of a larger particle 
 =GMm\bigg [\frac{-1}{r}\bigg ]_{r_{i}}^{r_{f}}=GMm\bigg (\frac{1}{r_{i}}-\frac{1}{r_{f}}\bigg )
 ```
 
-That is, as the particle of mass *m* moves toward or away from *M*, the potential energy of the system decreases and increases respectively Note that, the lighter particle (*m*) gains most of the kinetic energy as the potential energy changes. By choosing the reference point at infinity $(r_{i}=\infty )$ then $U_{i}=0$ and taking $r_{f}=r$ gives
+That is, as the particle of mass *m* moves toward or away from *M*, the potential energy of the system decreases and increases, respectively. Note that, the lighter particle (*m*) gains most of the kinetic energy as the potential energy changes. By choosing the reference point at infinity $(r_{i}=\infty )$ then $U_{i}=0$ and taking $r_{f}=r$ gives
 
 ```{math}
 U_{g}(r)=\frac{-GMm}{r}
@@ -1563,7 +1563,7 @@ This proves Kepler’s third law. Note that, Kepler’s laws apply also for sate
 (sec-9-5)=
 ## 9.5 Circular Orbits
 
-The orbits of most planets in our solar system are almost circular. Next, we will find the total energy of a body of mass *m* moving in a circular orbit about a massive body of mass *M* that is assumed to be fixed (at rest) in an inertial frame of reference. From that energy, we will find the eccentricity and prove that the orbit is circular. The potential energy of such system is
+The orbits of most planets in our solar system are almost circular. Next, we will find the total energy of a body of mass *m* moving in a circular orbit about a massive body of mass *M* that is assumed to be fixed (at rest) in an inertial frame of reference. From that energy, we will find the eccentricity and prove that the orbit is circular. The potential energy of such a system is
 
 ```{math}
 U=\frac{-GMm}{r}

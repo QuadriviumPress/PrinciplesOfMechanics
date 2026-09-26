@@ -1027,9 +1027,9 @@ where $\phi$ is the smaller angle between $\mathbf {r}$ and $\mathbf {p}$. This 
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig13_HTML.png
 :name: fig-5-13
-:alt: If the particle is moving in the x-y plane, then the direction of is perpendicular to the plane containing and and is found by the right-hand rule
+:alt: If the particle is moving in the x-y plane, then the direction of L is perpendicular to the plane containing r and p and is found by the right-hand rule
 
-If the particle is moving in the x-y plane, then the direction of is perpendicular to the plane containing and and is found by the right-hand rule
+If the particle is moving in the x-y plane, then the direction of $\mathrm {L}$ is perpendicular to the plane containing $\mathrm {r}$ and $\mathrm {p}$ and is found by the right-hand rule
 ```
 
 ### 5.6.1 Newton’s Second Law in Angular Form

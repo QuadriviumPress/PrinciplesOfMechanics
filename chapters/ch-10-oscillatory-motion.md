@@ -569,13 +569,13 @@ Hence
 \ddot{x}+\omega _{n}^{2}x=0
 ```
 
-where $\omega _{n}=\sqrt{k/m}$. As the mass moves, its kinetic energy is transformed into potential energy and vice versa. Figure 10.11 shows the kinetic energy and potential energy of the system as a function of time and as a function of the displacement respectively Note that the variation of *U* and *K* with time is at twice the angular frequency of the variation of *x*, *v*, and *a* with time. This is because the potential energy is converted to kinetic energy twice in each cycle. The velocity of the simple harmonic oscillator can be obtained from the total energy of the system. From [](#eq-10-10), we have
+where $\omega _{n}=\sqrt{k/m}$. As the mass moves, its kinetic energy is transformed into potential energy and vice versa. Figure 10.11 shows the kinetic energy and potential energy of the system as a function of time and as a function of the displacement, respectively. Note that the variation of *U* and *K* with time is at twice the angular frequency of the variation of *x*, *v*, and *a* with time. This is because the potential energy is converted to kinetic energy twice in each cycle. The velocity of the simple harmonic oscillator can be obtained from the total energy of the system. From [](#eq-10-10), we have
 
 ```{math}
 v=\pm \sqrt{\frac{k}{m}(A^{2}-x^{2})}
 ```
 
-Hence, the maximum speed is at $x=0$ and is zero at $x=\pm A$ which are called the turning points as discussed in Chap. chap444.
+Hence, the maximum speed is at $x=0$ and is zero at $x=\pm A$ which are called the turning points as discussed in Chap. [](#ch-4).
 
 ```{figure} ../images/ch-10/459974_1_En_10_Fig11_HTML.png
 :name: fig-10-11

@@ -520,7 +520,7 @@ The resultant gravitational force acting on an object is the resultant of the in
 \begin{aligned} \displaystyle \sum \mathbf {F}=\sum m_{i}\mathbf {g} \end{aligned}
 ```
 
-This force can be replaced by a single force that is equal to the weight of the object (*M*g) and that acts at a single point called the center of gravity Now consider an object that is near the earth’s surface where the force of gravity is assumed to be constant over that range. Equation [](#eq-8-11) becomes
+This force can be replaced by a single force that is equal to the weight of the object (*M*g) and that acts at a single point called the center of gravity. Now consider an object that is near the earth’s surface where the force of gravity is assumed to be constant over that range. Equation [](#eq-8-11) becomes
 
 ```{math}
 \sum \mathbf {F}=\sum m_{i}\mathbf {g}=\mathbf {g}\sum m_{i}=M\mathbf {g}=\mathbf {w}
