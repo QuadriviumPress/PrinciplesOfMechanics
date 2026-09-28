@@ -458,7 +458,7 @@ A particle in uniform circular motion
 (sec-10-3-2)=
 ### 10.3.2 Simple Harmonic Motion and Uniform Circular Motion
 
-Consider a circle of radius *A* centered at the $\mathrm {x}$ and $\mathrm {y}$ axes as shown in [](#fig-10-8). Let A be the position vector of a particle $\mathrm {P}$ rotating with a constant angular speed $\omega _{n}$ in the anticlockwise direction. The particle is thus in uniform circular motion. Suppose $\mathrm {P}$ starts the rotation at $t=0$ at an angle of $\phi$ measured from the positive $\mathrm {x}$-axis. At any time, the angular position of the particle is given by $(\omega _{n}t+\phi )$, therefore the vector position of the particle at any time is
+Consider a circle of radius *A* centered at the $\mathrm {x}$ and $\mathrm {y}$ axes as shown in [](#fig-10-8). Let A be the position vector of a particle $\mathrm {P}$ rotating with a constant angular speed $\omega _{n}$ in the counterclockwise direction. The particle is thus in uniform circular motion. Suppose $\mathrm {P}$ starts the rotation at $t=0$ at an angle of $\phi$ measured from the positive $\mathrm {x}$-axis. At any time, the angular position of the particle is given by $(\omega _{n}t+\phi )$, therefore the vector position of the particle at any time is
 
 ```{math}
 \mathbf {A}=x\mathbf {i}+y\mathbf {j}=A\cos (\omega _{n}t+\phi )\mathbf {i}+A\sin (\omega _{n}t+\phi )\mathbf {j}
@@ -1158,7 +1158,7 @@ The torsional pendulum consists of a rigid body suspended by a wire from its cen
 \tau =-k\theta
 ```
 
-where *k* is called the torsional constant. Its value depends on the property of the wire. Note that this equation is the rotational analogue of Hook’s law in linear form $(F=-kx)$. From Newton’s second law, we have
+where *k* is called the torsional constant. Its value depends on the property of the wire. Note that this equation is the rotational analog of Hook’s law in linear form $(F=-kx)$. From Newton’s second law, we have
 
 ```{math}
 \tau =I\alpha

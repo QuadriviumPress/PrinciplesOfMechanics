@@ -231,7 +231,7 @@ Since at $t=0, \theta =3 \; \mathrm {r}\mathrm {a}\mathrm {d}$, then $c_{2}=3$ r
 :::
 ````
 
-A pure rotational motion with constant angular acceleration is the rotational analogue of the pure translational motion with constant acceleration. The corresponding kinematic equations of pure rotational motion can be obtained by using the same method that is used for obtaining the kinematic equations of pure translational motion. To show this, consider a rigid object rotating with a constant angular acceleration during a time interval from $t_{1}$ to $t_{2}$ through an angle from $\theta _{1}$ to $\theta _{2}$. Let $t_{1}=0, t_{2}=t, \omega _{1}=\omega _{\mathrm {o}}, \omega _{2}=\omega , \theta _{1}=\theta _{\mathrm {o}}$, and $\theta _{2}=\theta .$ Because the angular acceleration is constant it follows that the angular velocity changes linearly with time and the average angular velocity is given by
+A pure rotational motion with constant angular acceleration is the rotational analog of the pure translational motion with constant acceleration. The corresponding kinematic equations of pure rotational motion can be obtained by using the same method that is used for obtaining the kinematic equations of pure translational motion. To show this, consider a rigid object rotating with a constant angular acceleration during a time interval from $t_{1}$ to $t_{2}$ through an angle from $\theta _{1}$ to $\theta _{2}$. Let $t_{1}=0, t_{2}=t, \omega _{1}=\omega _{\mathrm {o}}, \omega _{2}=\omega , \theta _{1}=\theta _{\mathrm {o}}$, and $\theta _{2}=\theta .$ Because the angular acceleration is constant it follows that the angular velocity changes linearly with time and the average angular velocity is given by
 ```{math}
 \overline{\omega }=\frac{\omega _{0}+\omega }{2}
 ```
@@ -485,7 +485,7 @@ This quantity shows how the mass of the system is distributed about the axis of 
 ```{math}
 K_{R}=\frac{1}{2}I\omega ^{2}
 ```
-This quantity is the rotational analogue of the kinetic energy in translational motion. Note that this energy is not a new kind of energy; it is just the sum of the translational kinetic energies of the particles. For a rigid body which is a continuous system of particles, the sum is replaced by an integral
+This quantity is the rotational analog of the kinetic energy in translational motion. Note that this energy is not a new kind of energy; it is just the sum of the translational kinetic energies of the particles. For a rigid body which is a continuous system of particles, the sum is replaced by an integral
 ```{math}
 I=\lim _{\triangle m_{\mathrm {i}\rightarrow 0}}\sum _{i}m_{i}r_{i}^{2}=\int r^{2}dm
 ```

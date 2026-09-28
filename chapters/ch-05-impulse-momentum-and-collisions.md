@@ -959,7 +959,7 @@ Let us consider a particle in the x–y plane exposed to a force that lies in th
 \tau =Fd
 ```
 
-where $d=r\sin \phi$ is called the moment arm of $\mathrm {F}$ where it represents the perpendicular distance from the axis of rotation to the line of action of $\mathrm {F}$ as shown in [](#fig-5-12). Note that because $\tau$ depends on $\mathrm {r}$, it follows that $\tau$ depends on the choice of the origin O. The force $\mathrm {F}$ can be resolved into two components $F_{t}=F\sin \phi$ and $F_{r}=F\cos \phi$. Since the line of action of $F_{r}$ passes through $\mathrm {O},$ it has no rotating effect. Hence, $F_{t}$ is the only component of $\mathrm {F}$ that causes rotation. The SI unit of torque is the Newton-metre (N m). This unit is the same unit of work, but they are different quantities and the torque should never be expressed in joules.
+where $d=r\sin \phi$ is called the moment arm of $\mathrm {F}$ where it represents the perpendicular distance from the axis of rotation to the line of action of $\mathrm {F}$ as shown in [](#fig-5-12). Note that because $\tau$ depends on $\mathrm {r}$, it follows that $\tau$ depends on the choice of the origin O. The force $\mathrm {F}$ can be resolved into two components $F_{t}=F\sin \phi$ and $F_{r}=F\cos \phi$. Since the line of action of $F_{r}$ passes through $\mathrm {O},$ it has no rotating effect. Hence, $F_{t}$ is the only component of $\mathrm {F}$ that causes rotation. The SI unit of torque is the Newton-meter (N m). This unit is the same unit of work, but they are different quantities and the torque should never be expressed in joules.
 
 ```{figure} ../images/ch-05/459974_1_En_5_Fig11_HTML.png
 :name: fig-5-11

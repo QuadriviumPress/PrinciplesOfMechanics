@@ -1542,9 +1542,9 @@ A boat is traveling at 8 $\mathrm{km}/\mathrm{h}$ north relative to the sea’s 
 
 ```{figure} ../images/ch-02/459974_1_En_2_Fig30_HTML.png
 :name: fig-2-30
-:alt: r1 is a unit vector along the increasing r direction and theta 1 is a unit vector in the direction of increasing theta (anticlockwise direction)
+:alt: r1 is a unit vector along the increasing r direction and theta 1 is a unit vector in the direction of increasing theta (counterclockwise direction)
 
-$\mathrm{r}_{1}$ is a unit vector along the increasing r direction and $\theta _{1}$ is a unit vector in the direction of increasing $\theta$ (anticlockwise direction)
+$\mathrm{r}_{1}$ is a unit vector along the increasing r direction and $\theta _{1}$ is a unit vector in the direction of increasing $\theta$ (counterclockwise direction)
 ```
 
 (sec-2-6)=
@@ -1560,7 +1560,7 @@ x=r\cos \theta
 y=r\sin \theta
 ```
 
-where $\theta$ is measured from the positive $\mathrm{x}$- axis. Suppose a particle is located at $(r,\theta )$. If the particle moves in a straight line along the $r$ direction, then $\theta$ is constant through the motion of the particle. If the particle moves in a circle, then $r$ is constant. Let $\mathrm{r}_{1}$ be a unit vector along the increasing $r$ direction and $\theta _{1}$ to be a unit vector in the direction of increasing $\theta$ (anticlockwise direction). From [](#fig-2-30), we have
+where $\theta$ is measured from the positive $\mathrm{x}$- axis. Suppose a particle is located at $(r,\theta )$. If the particle moves in a straight line along the $r$ direction, then $\theta$ is constant through the motion of the particle. If the particle moves in a circle, then $r$ is constant. Let $\mathrm{r}_{1}$ be a unit vector along the increasing $r$ direction and $\theta _{1}$ to be a unit vector in the direction of increasing $\theta$ (counterclockwise direction). From [](#fig-2-30), we have
 
 ```{math}
 \mathbf{r}_{1}=\cos \theta \mathbf{i}+\sin \theta \mathbf{j}
