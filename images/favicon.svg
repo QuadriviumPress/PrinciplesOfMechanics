@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Principles of Mechanics</title>
+  <rect width="64" height="64" rx="12" fill="#16324a"/>
+  <polygon points="32,36 22,54 42,54" fill="#8dabc4"/>
+  <rect x="8" y="30" width="48" height="6" rx="2" fill="#7ec8f0" transform="rotate(-12 32 33)"/>
+  <circle cx="14" cy="26" r="6" fill="#e11d48"/>
+  <circle cx="50" cy="36" r="4" fill="#e2e8f0"/>
+</svg>
